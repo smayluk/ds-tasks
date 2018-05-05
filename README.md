@@ -13,3 +13,6 @@ Data science tasks
 
 #### Задание к занятию 2.6 «Кластеризация»
 [Визуализация районов Москвы](https://github.com/smayluk/ds-tasks/tree/master/26_Сlustering)
+
+#### Задание к занятию 2.7 «Обзор библиотеки XGBoost»
+[Решить задачу регрессии — предсказание цены на недвижимость используяя xgboost](https://github.com/smayluk/ds-tasks/tree/master/27_Boosting)
