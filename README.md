@@ -16,3 +16,7 @@ Data science tasks
 
 #### Задание к занятию 2.7 «Обзор библиотеки XGBoost»
 [Решить задачу регрессии — предсказание цены на недвижимость используяя xgboost](https://github.com/smayluk/ds-tasks/tree/master/27_Boosting)
+
+#### Задание к занятию 4.3 «Коллаборативная фильтрация»
+[Использовать любые модели из пакета Surprise, чтобы получить RMSE на тестовом сете 0.87 или ниже](https://github.com/smayluk/ds-tasks/tree/master/43_Collaborative_Filtering)
+
